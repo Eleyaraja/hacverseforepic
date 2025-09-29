@@ -4,7 +4,7 @@
 
 OptiNET is an AI-powered web application for preliminary retinal health analysis. It uses deep learning and computer vision to analyze retinal fundus images and provide insights into various eye conditions. The application integrates AI for comprehensive medical report generation and contextual analysis sponsered by Hridayamrit foundation.
 
-**Important Disclaimer**: This is a research and educational tool. It is not a medical device and should not be used for diagnostic purposes.
+**Important Disclaimer**: Most of the code is hidden to maintain novelity and heart of the project the h5 file is not avilable this repo is just made avilabel to judges for judgeing purpose ones the hackathon is completed this repo will be removed for further info conatact eleyarjaoffical@gmail.com Technical Research Head @ Hrydayiamrit Foundation
 
 ---
 
