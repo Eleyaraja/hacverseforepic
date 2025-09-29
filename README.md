@@ -2,7 +2,7 @@
 
 ## Overview
 
-OptiNET is an AI-powered web application for preliminary retinal health analysis. It uses deep learning and computer vision to analyze retinal fundus images and provide insights into various eye conditions. The application integrates AI for comprehensive medical report generation and contextual analysis.
+OptiNET is an AI-powered web application for preliminary retinal health analysis. It uses deep learning and computer vision to analyze retinal fundus images and provide insights into various eye conditions. The application integrates AI for comprehensive medical report generation and contextual analysis sponsered by Hridayamrit foundation.
 
 **Important Disclaimer**: This is a research and educational tool. It is not a medical device and should not be used for diagnostic purposes.
 
